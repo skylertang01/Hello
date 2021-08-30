@@ -11,6 +11,8 @@
 
      printf("Skyler Tang!\n");
      printf("Major: Computer Science\n");
+     printf("Quan Do\n");
+     printf("Major: Computer Science\n")
 
 
      return 0;
